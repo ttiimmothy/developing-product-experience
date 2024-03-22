@@ -1,8 +1,8 @@
-# Awesome DX (Developer Experience)
+# Awesome DX (Developing Product Experience)
 
 ![Awesome DX](https://user-images.githubusercontent.com/398893/124952450-19d8ef00-dfc9-11eb-848b-5454eb42c8ee.jpg)
 
-> A curated list of Developer Experience resources
+> A curated list of Developing Product Experience resources
 
 ## Table of Contents
 
@@ -190,3 +190,9 @@
 | [JS UX: Writing code for humans](https://youtu.be/loj3CLHovt0)                         | Lea Verou         | 1:09:04  | 9/26/2016  |
 | [The Elements of Developer Experience (DX) Design](https://youtu.be/lQdeWHPgoMs)       | Stephen Boak      | 5:24     | 8/4/2016   |
 
+###### From workos
+![workos](images/workos.png)
+
+## License
+
+Developing Product Experience is licensed under [MIT License](LICENSE).
