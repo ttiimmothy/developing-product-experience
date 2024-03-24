@@ -195,4 +195,4 @@
 
 ## License
 
-Developing Product Experience is licensed under [MIT License](LICENSE).
+Developing Product Experience is licensed under [Apache-2.0 License](LICENSE).
